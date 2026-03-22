@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Semana2
 {
@@ -20,4 +20,3 @@ namespace Semana2
             return lados*4;
         }
     }}
- 

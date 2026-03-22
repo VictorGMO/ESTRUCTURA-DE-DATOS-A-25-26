@@ -1,0 +1,14 @@
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\bin\Debug\net10.0\Semana2.exe
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\bin\Debug\net10.0\Semana2.deps.json
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\bin\Debug\net10.0\Semana2.runtimeconfig.json
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\bin\Debug\net10.0\Semana2.dll
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\bin\Debug\net10.0\Semana2.pdb
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.AssemblyInfoInputs.cache
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.AssemblyInfo.cs
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.csproj.CoreCompileInputs.cache
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.dll
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\refint\Semana2.dll
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.pdb
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\Semana2.genruntimeconfig.cache
+c:\Users\victo\OneDrive\Documentos\Proyectos C\Semana2\obj\Debug\net10.0\ref\Semana2.dll
